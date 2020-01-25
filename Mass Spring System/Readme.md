@@ -1,1 +1,1 @@
-This code simulates an ideal system of a mass on a spring through numerical approximation of the velocity and position of the mass using Euler's method.
+This script uses Euler's method to simulate an idealized system of a mass on a spring. It generates position-time and velocity-time charts for the simulated mass.
