@@ -1,2 +1,2 @@
 # Mechanics
-Matlab files for simulating interesting mechanical systems
+Matlab files for interesting simulations
