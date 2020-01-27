@@ -23,8 +23,8 @@ C = 100; % Farads
 N = 10000; % Number of steps
 i(N) = 0; % Initialize array
 j(N) = 0; % Initialize array
-i(1) = 5; % Amperes
-j(1) = 0; % Amperes per second
+i(1) = 0; % Amperes
+j(1) = 5; % Amperes per second
 dt = 0.001; % s
 
 for t = 1:N
