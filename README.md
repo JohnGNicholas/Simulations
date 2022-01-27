@@ -1,2 +1,2 @@
 # Mechanics
-Matlab files for interesting simulations
+Examples for basic (and not-so-basic) numerical methods for solving systems of linear differential equations
